@@ -14,7 +14,7 @@ Finally it explores how an HNSW (Hierarchical Navigable Small World) index impro
 
 ```text
 Vector Search Internals/
-│
+├── Screenshots
 ├── code.ipynb
 ├── requirements.txt
 ├── README.md
@@ -25,6 +25,7 @@ Vector Search Internals/
 
 ### Files Description
 
+- `Screenshots`: Contains screenshots of the output.
 - `code.ipynb`: Contains implementations, experiments, vector comparisons, and performance benchmarks.
 - `requirements.txt`: Lists the required Python libraries.
 - `.env`: Stores private Qdrant connection credentials.
