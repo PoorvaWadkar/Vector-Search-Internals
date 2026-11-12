@@ -1,0 +1,5 @@
+numpy
+qdrant-client
+python-dotenv
+jupyter
+ipykernel
