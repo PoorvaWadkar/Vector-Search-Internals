@@ -14,7 +14,7 @@ Finally it explores how an HNSW (Hierarchical Navigable Small World) index impro
 
 ```text
 Vector Search Internals/
-├── Screenshots
+├── Screenshots/
 ├── code.ipynb
 ├── requirements.txt
 ├── README.md
@@ -135,11 +135,11 @@ HNSW introduces a trade-off between search speed, retrieval accuracy, indexing t
 
 ### 7.1 Qdrant Cloud – Available Vector Collections
 
-![Available Vector Collections](Screenshots/qdrant_collections.png)
+![Qdrant Collections](Screenshots/qdrant_collections.png)
 Shows the collections created and available in the Qdrant Cloud dashboard.
 
 ### 7.2 Points Stored in benchmark_1000 Collection
 
-![Points Stored in benchmark_1000](Screenshots/benchmark_1000_points.png)
+![1000 Points](Screenshots/benchmark_1000_points.png)
 Shows the vector points stored inside the `benchmark_1000` collection.
 
