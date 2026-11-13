@@ -15,6 +15,8 @@ Finally it explores how an HNSW (Hierarchical Navigable Small World) index impro
 ```text
 Vector Search Internals/
 ├── Screenshots/
+|    ├── qdrant_collections.png
+|    ├── benchmark_1000_points.png
 ├── code.ipynb
 ├── requirements.txt
 ├── README.md
